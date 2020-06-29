@@ -10,22 +10,33 @@ Thus, the aim of this project is to build a classification model that can predic
 
 #### 3  Libraries
 ##### standard libraries
+
 pandas
+
 numpy 
 
 ##### plotting libraries
+
 matplotlib
+
 wordcloud
+
 seaborn
 
 ##### text analysis libraries
+
 re
+
 spacy
+
 string
+
 emoji
 
 ##### model building and valuation libraries
+
 sklearn
+
 nltk
 
 #### 4  Data
